@@ -45,8 +45,7 @@
 ### 2) 채팅페이지(ChattingPage)
 
 <img width="853" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-08-06_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9 17 44" src="https://github.com/user-attachments/assets/136a42c6-424a-49ea-baee-80a0c2178e13">
-
-<img width="814" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-08-06_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9 19 22" src="https://github.com/user-attachments/assets/3a8eb85d-b3a8-4130-b36e-e12fb0dfd2cc">
+<img width="800" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-08-06_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9 19 22" src="https://github.com/user-attachments/assets/3a8eb85d-b3a8-4130-b36e-e12fb0dfd2cc">
 
 웹사이트 우측 하단 채팅 버튼을 누르면 보이는 페이지입니다. 본 페이지의 하단 인풋에 건강에 대한 질문을 입력하면 gpt가 질문에 대한 답변을 제공합니다.
 
