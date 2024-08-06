@@ -2,8 +2,7 @@
 
 # **💊 의약품 간편 검색 서비스, 4온 약 어때? 💊**
 
-![Untitled](4%E1%84%8B%E1%85%A9%E1%86%AB%20%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%84%84%E1%85%A2%205401ab16d19f4a2e88e7ca84c3b90c23/Untitled.png)
-<img width="1450" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-08-06_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9 15 50" src="https://github.com/user-attachments/assets/5395e44e-3d55-437a-979b-ca0f5943da45">
+![Untitled](https://github.com/user-attachments/assets/8425163b-411e-4c1a-a712-90762eb3f31e)
 
 의약품에 대한 신뢰성 있는 정보를 제공하는 서비스
 
@@ -105,7 +104,7 @@
 
 ---
 
-![Untitled](4%E1%84%8B%E1%85%A9%E1%86%AB%20%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%84%84%E1%85%A2%205401ab16d19f4a2e88e7ca84c3b90c23/Untitled%202.png)
+![Untitled 2](https://github.com/user-attachments/assets/e824e28d-d6f1-4775-bd3c-e44ba82d1f9e)
 
 ## 💡 기술 스택(Tech Stack)
 
